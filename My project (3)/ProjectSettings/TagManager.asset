@@ -6,6 +6,8 @@ TagManager:
   tags:
   - New tag
   - spy
+  - Spike
+  - Coin
   layers:
   - Default
   - TransparentFX
